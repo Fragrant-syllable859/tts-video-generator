@@ -15,6 +15,13 @@ video_output/
 backgrounds/
 bgm/
 
+# Allow demo video
+!demo/demo.mp4
+
+# Demo build artifacts
+demo_output/
+demo_scripts.docx
+
 # Python
 __pycache__/
 *.pyc

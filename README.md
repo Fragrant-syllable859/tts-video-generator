@@ -2,6 +2,10 @@
 
 一个 Python 工具，自动生成带 AI 配音和同步字幕的短视频。适用于制作知识科普、社交媒体视频（TikTok/抖音/Reels/Shorts）和旁白式幻灯片。
 
+## 演示视频
+
+https://github.com/minnayu14/tts-video-generator/raw/main/demo/demo.mp4
+
 ## 工作流程
 
 ```

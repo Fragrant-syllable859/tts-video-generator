@@ -298,7 +298,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Title,{SUBTITLE_FONT},{TITLE_FONTSIZE},{WHITE},{TRANS},{BLACK},{TRANS},-1,0,0,0,100,100,2,0,1,6,2,8,80,80,250,1
-Style: Sub,{SUBTITLE_FONT},{SUB_FONTSIZE},{BLACK},{TRANS},{WHITE},{TRANS},0,0,0,0,100,100,1,0,1,4,1,8,110,110,720,1
+Style: Sub,{SUBTITLE_FONT},{SUB_FONTSIZE},{BLACK},{TRANS},{WHITE},{TRANS},0,0,0,0,100,120,2,0,1,4,1,8,110,110,720,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
