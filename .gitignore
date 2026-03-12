@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Output directories
+audio_output/
+video_output/
+
+# Content files (user-specific)
+*.docx
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.aac
+backgrounds/
+bgm/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
